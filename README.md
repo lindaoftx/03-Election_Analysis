@@ -24,7 +24,7 @@ The analysis of the election shows:
     - Charles Casper Stockham: 85,213 (23.05%)
     - Diana DeGette: 272,892 (73.81%)
     - Raymon Anthony Doane: 11,606 (3.14%)
-- **Diana DeGette** won the elevtion with **272,892** (73.81%) **votes**
+- **Diana DeGette** won the election with **272,892** (73.81%) **votes**
 
 ## Challenge Overview
 The Colorado Board of Elections requested further analysis of the data: 
@@ -40,7 +40,7 @@ The analysis of votes per county shows:
 	- Denver
 	- Arapahoe
 - Voter turnout per county was: 
-        - Jefferson: 38,855 (10.51%)
-        - Denver: 306,055 (82.78%)
-        - Arapahoe: 24,801 (6.71%)
+    - Jefferson: 38,855 (10.51%)
+    - Denver: 306,055 (82.78%)
+    - Arapahoe: 24,801 (6.71%)
 - **Denver County** had more than 4 times the voter turnout than Jefferson and Arapahoe counties combined. 
